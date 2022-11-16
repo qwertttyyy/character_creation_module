@@ -1,4 +1,7 @@
 {
-    "python.linting.flake8Enabled": true,
-    "python.linting.enabled": true
+    "python.linting.flake8Enabled": false,
+    "python.linting.enabled": true,
+    "python.analysis.inlayHints.functionReturnTypes": true,
+    "python.analysis.inlayHints.variableTypes": true,
+    "python.linting.mypyEnabled": true
 }
